@@ -4,7 +4,7 @@ local module =  {}
 -- hello faizal
 
 -- define function forEach
-function module.greet(arr, cb) 
+function module.forEach(arr, cb) 
   for i, item in ipairs(arr) do
     cb(item, i)
   end
