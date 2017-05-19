@@ -4,3 +4,4 @@ arr3 = require "get-name";
 arr3.forEach(newArr, function(item)
   print(item)
 end)
+
