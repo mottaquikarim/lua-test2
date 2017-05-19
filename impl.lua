@@ -1,1 +1,3 @@
--- Created by mottaquikarim
+greet = require "get-name";
+
+return greet("Wrold")
