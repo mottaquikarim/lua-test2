@@ -1,3 +1,3 @@
 greet = require "get-name";
 
-return greet("Wrold")
+return greet.greet("Wrold")
