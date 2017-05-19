@@ -1,3 +1,3 @@
-greet = require("get-name");
+foo = require("get-name");
 
-return greet.greet("Wrold")
+return foo.greet("Wrold")
