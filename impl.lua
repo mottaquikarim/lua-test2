@@ -1,4 +1,4 @@
-arr3 = require "forEach";
+arr3 = require "get-name";
 
 -- testing
 arr3.forEach(newArr, function(item)
