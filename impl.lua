@@ -1,3 +1,6 @@
-arr2 = require("get-name");
+arr3 = require "forEach";
 
-print(arr2)
+-- testing
+arr3.forEach(newArr, function(item)
+  print(item)
+end)
